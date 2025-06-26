@@ -1,0 +1,62 @@
+@media (max-width:991px) {
+    header .carousel .carousel-inner .carousel-item .carousel-caption p {
+        width: 100%;
+        font-size: .7rem;
+        margin: 1.25rem 0 !important;
+    }
+
+    header .carousel .carousel-inner .carousel-item .carousel-caption h2 {
+        font-size: 2rem;
+    }
+
+    header nav ul.navbar-nav {
+        background-color: #4d8b5539;
+        color: white;
+        margin-top: 10px;
+        padding: 10px 0;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+        backdrop-filter: blur(30px);
+    }
+
+    header nav ul.navbar-nav li.nav-item {
+        margin: auto;
+        padding: 0 10px;
+    }
+}
+
+@media (min-width:991px) and (max-width:1200px) {
+    section.about-us .row .col-md-12.col-lg-8 .row .col-sm-6.col-md-4 .item {
+        width: 100%;
+    }
+}
+
+@media (max-width:573px) {
+    section.menu .container .tab-content .tab-pane .row .item {
+        max-width: 350px;
+        margin: auto;
+    }
+
+    section.menu .links {
+        scrollbar-width: none;
+    }
+
+    section.video .container .modal-dialog {
+        max-width: 80%;
+    }
+}
+
+@media (max-width:993px) {
+    section.video .container h6:first-child {
+        font-size: 3rem;
+    }
+}
+
+@media (max-width:767px) {
+    section.book .container {
+        background: none;
+    }
+}

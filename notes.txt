@@ -1,0 +1,8 @@
+1- slider captipon -> d-flex not position
+2- links icon -> d-flex not position
+3- p-color -> text-white/black-50
+4- overflow auto scrollbar
+5- fa-size
+6- font-size vs h-class
+7- responsive
+8- last section
